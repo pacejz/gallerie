@@ -36,3 +36,11 @@ Toolset witten in React and Next to create simple galleries
     - Articles
     - Gallery page
     - Paint page
+
+## Data
+
+State management : Zustand, Jotai, or Recoil ? (not REDUX)
+- Or is next enough as server side state management ?
+- 
+
+- **Storybook**, will be needed

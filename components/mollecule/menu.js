@@ -1,4 +1,4 @@
 
 function Menu() {
-    return <h1>{title ? title : 'Default title'}</h1>;
+    return <h1>{title ? title : 'Gallerie'}</h1>;
 }

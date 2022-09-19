@@ -1,0 +1,17 @@
+{
+    "paintings": [
+        {
+            "id": 1,
+            "title": "1, 2, 3 GO !",
+            "url": "../ressources/jakob-owens-CiUR8zISX60-unsplash.pg",
+            "author": "Neitsabes-Naej Nirelep"
+        },
+        {
+            "id": 2,
+            "title": "Beauty",
+            "url": "../ressources/kal-visuals-3UcQtXSvA88-unsplash.jpg",
+            "author": "Nimajneb Cuedarac"
+        }
+
+    ]
+}
